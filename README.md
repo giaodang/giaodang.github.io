@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+This repository is no longer maintained. 
+============
 
-You can use the [editor on GitHub](https://github.com/giaodang/giaodang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Herring Cove
+============
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Herring Cove is a clean and responsive theme for Jekyll. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Overview 
 
-```markdown
-Syntax highlighted code block
+* Fixed Sidebar with social links
+* Minimal design 
+* Comments by Disqus
+* Social Sharing abilities 
+* Easy to configure
+* Based on Bootstrap
 
-# Header 1
-## Header 2
-### Header 3
+### Screenshots
 
-- Bulleted
-- List
+![screenshot](/images/screenshot1.png)
+![screenshot](/images/screenshot2.png)
 
-1. Numbered
-2. List
+### Setup
 
-**Bold** and _Italic_ and `Code` text
+1. Install Jekyll
+2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
+3. Edit the `_config.yml` file
 
-[Link](url) and ![Image](src)
-```
+You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Download
 
-### Jekyll Themes
+[download](https://github.com/arnp/herring-cove/archive/master.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giaodang/giaodang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### License
+* [MIT](http://opensource.org/licenses/MIT)
 
-### Support or Contact
+-------------
+Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*What's with the name?*
+
+[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
