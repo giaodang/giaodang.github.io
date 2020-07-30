@@ -3,7 +3,7 @@ title: Giao Dang
 description: 'Personal Website'
 url: 'http://giaodang.github.io'
 baseurl: ''
-profilepic: '/images/profile-pic.jpg'
+profilepic: '/images/profile.jpg'
 bkimage: '/images/cover.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
